@@ -1,0 +1,11 @@
+# ERP System Information
+Company: Corporate Solutions Ltd.
+Location: Dhaka, Bangladesh
+
+# Project Budgets
+Projects and Budgets:
+- Project ID: 101 | Name: Marketing Campaign | Budget: 10,000 Riyals
+- Project ID: 102 | Name: IT Infrastructure | Budget: 25,000 Riyals
+- Project ID: 103 | Name: Product Development | Budget: 50,000 Riyals
+- Project ID: 104 | Name: Office Renovation | Budget: 75,000 Riyals
+- Project ID: 105 | Name: Client Onboarding | Budget: 100,000 Riyals
